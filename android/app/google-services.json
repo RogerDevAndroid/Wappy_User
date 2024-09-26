@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374977365459",
+    "firebase_url": "https://wappyv2-498fa-default-rtdb.firebaseio.com",
+    "project_id": "wappyv2-498fa",
+    "storage_bucket": "wappyv2-498fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374977365459:android:f1468af94d696a375e1b26",
+        "android_client_info": {
+          "package_name": "io.initappz.ultimate.salon.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374977365459-84294pjscrf04i83r0mm1q1ap7kchofe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMFClA2Ghoh1pdvf6d8VOeSXa0R5bDrXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374977365459-84294pjscrf04i83r0mm1q1ap7kchofe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374977365459-dbm57pavlb9cnahmo73uu1c41494ssr3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.initappz.ultimate.salon.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
